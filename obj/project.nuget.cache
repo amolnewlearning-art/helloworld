@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T9aGiC3JfLM=",
+  "dgSpecHash": "uf1GmhTRrV4=",
   "success": true,
-  "projectFilePath": "/Users/amol/Documents/sourceCode/helloworld/helloworld/helloworld.csproj",
+  "projectFilePath": "/app/helloworld.csproj",
   "expectedPackageFiles": [
-    "/Users/amol/.nuget/packages/microsoft.aspnetcore.openapi/7.0.0/microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
-    "/Users/amol/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512"
+    "/home/jules/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "/home/jules/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512"
   ],
   "logs": []
 }
